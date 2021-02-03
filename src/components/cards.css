@@ -1,0 +1,14 @@
+.container-fluid {
+    height: 100vh;
+}
+
+.row {
+    height: 100%;
+    width: 90%;
+    margin: auto;
+
+}
+
+.row > .col-md-6 {
+    height: 100%;
+}
