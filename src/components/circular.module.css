@@ -1,0 +1,43 @@
+.container {
+    width: 100vw;
+}
+.h3 {
+    margin: 2rem 0;
+    padding-left: 3rem;
+    width: 70%;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.title {
+        margin: 2rem 0;
+        padding-left: 3rem;
+        width: 50%;
+        font-weight: 500;
+}
+
+.container_two {
+    width: 100vw;
+    background-color: rgb(226, 226, 226);
+    display: flex;
+}
+
+.text {
+    margin: 2rem 0;
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+    width: 50%;
+    font-weight: 500;
+}
+
+.container_three {
+    width: 100vw;
+    /* background-color: rgb(226, 226, 226); */
+    display: flex;
+}
+
+.text_four {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}

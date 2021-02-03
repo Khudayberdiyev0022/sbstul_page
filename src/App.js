@@ -1,5 +1,7 @@
 import React from 'react'
-import Admissions from './components/Admissions';
+import Circular from './components/Circular';
+// import Information from './components/Information';
+// import Admissions from './components/Admissions';
 // import Table from './components/Table';
 // import Button from './components/Button';
 // import Cards from './components/Cards'
@@ -11,7 +13,9 @@ import Admissions from './components/Admissions';
 function App() {
   return (
    <div>
-     <Admissions />
+     <Circular />
+     {/* <Information /> */}
+     {/* <Admissions /> */}
      {/* <Table /> */}
      {/* <Button /> */}
      {/* <Carousel /> */}

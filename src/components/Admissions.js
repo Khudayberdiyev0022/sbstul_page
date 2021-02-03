@@ -1,10 +1,9 @@
 import React from 'react'
-import img_1 from '../images/1.png'
 import style from '../components/admissions.module.css'
 
 const Admissions = () => {
     return (
-        <div className={style.main} style={{ backgroundImage: `url(${img_1})` }}>
+        <div className={style.main}>
             <div className="block">
                 <div className="container">
                     <h5>Ҳурматли Тошкент шаҳри ва Тошкент вилояти абитуриентлари</h5>
